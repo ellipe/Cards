@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+Elixir Warmup, a Card Game module.
 
 ## Installation
 
